@@ -38,7 +38,7 @@ The goal of this project is to create a personalized chatbot for email generatio
 
 ### Model Fine-Tuning
 
-1. Navigate to the `llama_finetuning` directory and open the Jupyter notebook:
+1. Navigate to the `llama_finetuning` directory and open the notebook in Google CoLab:
    ```bash
    cd ../llama_finetuning
    jupyter notebook llama_finetuning.ipynb
